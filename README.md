@@ -1,6 +1,6 @@
 Hi everyone, I'm Julian (`@blitz`) 👋. I'm a low-level Rust and C++ developer with 10+ years of experience. I've worked on hypervisors, firmware code, operating systems including microkernels, drivers, and more. In the dark past, I also enjoyed writing Common Lisp.
 
-I have a blog about [weird x86 details](https://x86.lol/) (and other things that interest me). I co-host the [syslog](https://syslog.show/) podcast about operating system topics (but it's sleeping right now). I occasionally [talk at FOSDEM](https://archive.fosdem.org/2022/schedule/event/jstecklina/).
+I have a blog about [weird x86 details](https://x86.lol/) (and other things that interest me). I co-host the [syslog](https://syslog.show/) podcast about operating system topics (but it's sleeping right now). I occasionally talk at FOSDEM ([1](https://archive.fosdem.org/2022/schedule/event/jstecklina/), [2](https://fosdem.org/2023/schedule/event/nix_and_nixos_towards_secure_boot/)).
 
 Lately, I enjoy building systems with [Nix](https://nixos.org/) and help with bringing [UEFI Secure Boot](https://x86.lol/generic/2022/11/26/lanzaboote.html) to NixOS.
 
