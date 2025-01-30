@@ -10,5 +10,6 @@ If you want to chat with me, ping me on:
 
 - Matrix: [@blitz:chat.x86.lol](https://matrix.to/#/@blitz:chat.x86.lol)
 - Mastodon: [@blitz@infosec.exchange](https://infosec.exchange/@blitz)
+- Bluesky: [@x86.lol](https://bsky.app/profile/x86.lol)
 - Twitter: @blitzclone
 
